@@ -13,7 +13,7 @@
 - Multiple entrance and exit
 - Park small vehicles in large spot
 
-#Actors
+# Actors Involved
 - Parking attendant
 - Admin
-- Customer - will not interact but will make payment
+- Customer - will not interact directly but will make payment
